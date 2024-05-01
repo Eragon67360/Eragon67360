@@ -8,6 +8,9 @@
 # My Github
 The repositories on this GitHub page are some of the projects I have done for school, companies or for my personal development.
 Some are basics projects in C, others are complete softwares or mobile apps.
+
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eragon67360)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Eragon67360/Eragon67360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
